@@ -1,0 +1,54 @@
+h1,
+p {
+  font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+    'Helvetica Neue', sans-serif;
+}
+
+.card {
+  font-family: 'Times New Roman', Times, serif;
+  height: 180px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  padding: 8px;
+  box-shadow: 0 1px 2px -1px rgb(0 0 0 / 10%), 0 2px 2px 0 rgb(0 0 0 / 7%),
+    0 1px 5px 0 rgb(0 0 0 / 6%);
+  margin: 8px;
+  border-radius: 8px;
+  background-color:#2b6777;
+  
+  
+  
+  
+  
+ 
+}
+
+.title {
+  font-size: 16px;
+  font-family:serif;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.container {
+  display: flex;
+  padding: 8px;
+  gap: 8px;
+  background-color:#c8d8e4;
+  justify-content: baseline;
+}
+
+.title {
+  border-radius: 8px;
+}
+
+.description {
+  border-radius: 4px;
+  font-size: 15px;
+}
+
+.button {
+  border-radius: 6px;
+  border-color: white;
+}
